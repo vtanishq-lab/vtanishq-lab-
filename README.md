@@ -36,7 +36,33 @@ I'm an aspiring Data Analyst and B.Com graduate passionate about transforming ra
 **Data Analytics:** Data Transformation, Trend Analysis, KPI Analysis, Business Insights, Data Visualization
 
 ---
+## 📊 Featured Projects
 
+### 🔐 1. Fintech Fraud Analysis Dashboard
+
+**Tools:** Power BI | DAX | Power Query
+
+* Analyzed financial transactions and customer risk indicators.
+* Explored fraud patterns across customer age groups.
+* Created an interactive dashboard to monitor key fraud metrics.
+
+**Key Metrics:** 64K Customers | 13% Fraud Rate | 232M Total Transaction Amount
+
+🔗 [View Project Repository](https://github.com/vtanishq-lab/Fintech-Fraud-Analysis-Dashboard)
+
+### 🫀 2. Cardiac Arrest Healthcare Analytics Dashboard
+
+**Tools:** Power BI | DAX | Power Query
+
+* Analyzed patient survival, mortality, and hospital performance.
+* Evaluated healthcare KPIs and ICU treatment costs.
+* Developed interactive visualizations to explore patient outcomes.
+
+**Key Metrics:** 80K Patients | 58% Survival Rate | 34K Deceased Patients
+
+🔗 [View Project Repository](https://github.com/vtanishq-lab/Cardiac-Arrest-Analytics-Power-BI-Project)
+
+---
 ## 📌 What I Use
 
 | Tool / Skill          | Application                                                       |
