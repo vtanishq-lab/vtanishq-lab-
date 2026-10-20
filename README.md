@@ -1,3 +1,6 @@
+<div align="left">
+<<img src="https://github.com/vtanishq-lab.png" width="200" style="border-radius:50%" />
+
 # Hi, I'm Tanishq Verma 👋
 
 ### Aspiring Data Analyst | SQL | Power BI | Python | Excel | Statistics
@@ -123,3 +126,5 @@ I aim to begin my career as a Data Analyst, applying my analytical skills to rea
 ⭐ **Thanks for visiting my profile!**
 
 I'm passionate about continuous learning, developing my analytical skills, and transforming data into meaningful insights.
+
+</div>
