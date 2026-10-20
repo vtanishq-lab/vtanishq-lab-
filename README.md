@@ -1,301 +1,130 @@
-<h1 align="left">Hi, I'm Tanishq Verma 👋</h1>
-
-<h3 align="left">
-Data Analyst | SQL | Power BI | Python | Advanced Excel | Tableau
-</h3>
-
-<p align="left">
-Aspiring Data Analyst passionate about transforming raw data into meaningful
-insights through SQL, Python, Excel, and Power BI. Interested in data cleaning,
-exploratory data analysis, business intelligence, KPI reporting, and interactive
-dashboard development.
-</p>
-
-<p align="left">
-I enjoy working with datasets, identifying patterns, analyzing business
-performance, and presenting insights that support data-driven decisions.
-</p>
-
-<hr>
-
-<h2>👨‍💻 About Me</h2>
-
-<ul>
-<li>📊 Aspiring Data Analyst focused on turning data into actionable business insights.</li>
-<li>🗄️ Interested in SQL-based data analysis and database management.</li>
-<li>📈 Experienced in developing personal analytics dashboards using Power BI.</li>
-<li>🐍 Use Python for data manipulation, cleaning, and exploratory data analysis.</li>
-<li>📗 Familiar with Excel for data analysis and reporting.</li>
-<li>📉 Learning statistics and analytical techniques for better decision-making.</li>
-<li>🤖 Currently learning Machine Learning fundamentals.</li>
-<li>🎯 Seeking opportunities to begin my career as a Data Analyst.</li>
-</ul>
-
-<hr>
-
-<h2>🛠️ Technical Skills</h2>
-
-<h3>📊 Data Analytics</h3>
-
-<ul>
-<li>Exploratory Data Analysis (EDA)</li>
-<li>Data Cleaning and Preprocessing</li>
-<li>Data Transformation and Validation</li>
-<li>Missing Value Analysis</li>
-<li>Duplicate Detection</li>
-<li>Outlier Analysis</li>
-<li>Data Aggregation</li>
-<li>Trend Analysis</li>
-<li>KPI Reporting</li>
-<li>Business Insights Generation</li>
-</ul>
-
-<h3>🗄️ SQL & Database Management</h3>
-
-<p>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/pgAdmin-316192?style=flat&logo=postgresql&logoColor=white">
-</p>
-
-<ul>
-<li>Data Extraction and Filtering</li>
-<li>Aggregate Functions</li>
-<li>GROUP BY, HAVING, and ORDER BY</li>
-<li>INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL JOIN</li>
-<li>Subqueries</li>
-<li>Common Table Expressions (CTEs)</li>
-<li>Window Functions</li>
-<li>CASE Statements</li>
-<li>Date and String Functions</li>
-<li>Ranking and Analytical Queries</li>
-</ul>
-
-<h3>🐍 Python for Data Analytics</h3>
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white">
-</p>
-
-<ul>
-<li>Python Fundamentals</li>
-<li>Pandas and NumPy</li>
-<li>Data Cleaning and Manipulation</li>
-<li>Handling Missing Values</li>
-<li>Working with CSV, Excel, and JSON Files</li>
-<li>Exploratory Data Analysis</li>
-<li>Data Aggregation</li>
-<li>Data Visualization</li>
-</ul>
-
-<h3>📈 Power BI</h3>
-
-<p>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/DAX-4479A1?style=flat">
-<img src="https://img.shields.io/badge/Power_Query-217346?style=flat">
-</p>
-
-<ul>
-<li>Interactive Dashboard Development</li>
-<li>Data Modeling</li>
-<li>Power Query and Data Transformation</li>
-<li>DAX Measures and Calculated Columns</li>
-<li>KPI Cards and Business Metrics</li>
-<li>Charts, Slicers, and Filters</li>
-<li>Business Intelligence Reporting</li>
-</ul>
-
-<h3>📗 Microsoft Excel</h3>
-
-<p>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white">
-</p>
-
-<ul>
-<li>Data Cleaning and Formatting</li>
-<li>Sorting and Filtering</li>
-<li>Pivot Tables and Pivot Charts</li>
-<li>VLOOKUP and XLOOKUP</li>
-<li>IF Functions</li>
-<li>Conditional Formatting</li>
-<li>Data Analysis and Reporting</li>
-</ul>
-
-<h3>📉 Statistics</h3>
+<div align="left">
+<img src="https://github.com/vtanishq-lab.png" width="200" style="border-radius:50%" />
 
-<ul>
-<li>Descriptive Statistics</li>
-<li>Mean, Median, and Mode</li>
-<li>Probability Fundamentals</li>
-<li>Correlation and Covariance</li>
-<li>Hypothesis Testing Fundamentals</li>
-<li>Data Interpretation</li>
-</ul>
-
-<h3>⚙️ Tools & Platforms</h3>
+# Hi, I'm Tanishq Verma 👋
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white">
-</p>
-
-<hr>
-
-<h2>🚀 Featured Projects</h2>
-
-<h3>🏥 1. Cardiac Arrest Healthcare Analytics Dashboard</h3>
+### Aspiring Data Analyst | SQL | Power BI | Python | Excel | Statistics
 
-<p><b>Tools:</b> Power BI, DAX, Power Query</p>
+I'm an aspiring Data Analyst and B.Com graduate passionate about transforming raw data into meaningful insights. I enjoy analyzing datasets, identifying trends, and building interactive dashboards to support data-driven decision-making.
 
-<p>
-Developed an interactive healthcare dashboard to analyze patient outcomes,
-survival rates, mortality, and hospital-related trends.
-</p>
+🎯 **Career Goal:** Seeking entry-level Data Analyst opportunities.
 
-<b>Key Performance Indicators:</b>
+---
 
-<ul>
-<li>Total Patients: 80K</li>
-<li>Survived Patients: 46K</li>
-<li>Deceased Patients: 34K</li>
-<li>Survival Rate: 58%</li>
-<li>Average Heart Rate: 94</li>
-<li>Average Oxygen Level: 92</li>
-<li>Average ICU Stay: 11.03 Days</li>
-<li>ICU Treatment Cost: 3.6B</li>
-</ul>
+## 🧑‍💻 About Me
 
-<b>Key Analysis:</b>
+* 📊 Passionate about Data Analytics and Business Intelligence.
+* 🗄️ Developing SQL skills for data extraction and analysis.
+* 🐍 Using Python, Pandas, and NumPy for data analysis and exploration.
+* 📈 Building interactive dashboards using Power BI, DAX, and Power Query.
+* 📗 Practicing Excel for data cleaning, analysis, and reporting.
+* 📉 Learning statistics to understand data patterns and trends.
+* 🤖 Exploring Machine Learning and Artificial Intelligence fundamentals.
+* 🚀 Strengthening my analytical and problem-solving skills through continuous learning.
 
-<ul>
-<li>Analyzed patient survival and mortality outcomes.</li>
-<li>Explored hospital performance indicators.</li>
-<li>Examined healthcare trends related to diabetes and high blood pressure.</li>
-<li>Presented important healthcare metrics using interactive visuals.</li>
-</ul>
+---
 
-<p><b>GitHub Repository:</b> Add your project repository link here.</p>
+## 🛠️ Technical Skills
 
-<hr>
+**SQL:** PostgreSQL, Joins, Subqueries, CTEs, Window Functions, Aggregations
 
-<h3>💳 2. Fintech Fraud Analysis Dashboard</h3>
+**Python:** Pandas, NumPy, Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization
 
-<p><b>Tools:</b> Power BI, DAX, Power Query</p>
+**Power BI:** Interactive Dashboards, DAX, Power Query, Data Modeling, KPI Reporting
 
-<p>
-Created a financial analytics dashboard to explore transaction activity,
-fraud patterns, customer risk, and transaction behavior.
-</p>
+**Microsoft Excel:** Pivot Tables, Pivot Charts, VLOOKUP, XLOOKUP, Conditional Formatting
 
-<b>Key Performance Indicators:</b>
+**Statistics:** Descriptive Statistics, Probability, Correlation, Hypothesis Testing Fundamentals
 
-<ul>
-<li>Customers Analyzed: 64K</li>
-<li>Transaction Amount: 232M</li>
-<li>Fraud Rate: 13%</li>
-<li>Foreign Transaction Rate: 10%</li>
-<li>Average Credit Score: 736</li>
-<li>Average Risk Score: 13</li>
-</ul>
+**Data Analytics:** Data Transformation, Trend Analysis, KPI Analysis, Business Insights, Data Visualization
 
-<b>Key Analysis:</b>
+---
+## 📊 Featured Projects
 
-<ul>
-<li>Analyzed transaction behavior and potential fraud patterns.</li>
-<li>Explored foreign transactions and transaction categories.</li>
-<li>Examined customer age-group segmentation.</li>
-<li>Investigated credit scores, risk scores, and failed login attempts.</li>
-</ul>
+### 🔐 1. Fintech Fraud Analysis Dashboard
 
-<p><b>GitHub Repository:</b> Add your project repository link here.</p>
+**Tools:** Power BI | DAX | Power Query
 
-<hr>
+* Analyzed financial transactions and customer risk indicators.
+* Explored fraud patterns across customer age groups.
+* Created an interactive dashboard to monitor key fraud metrics.
 
-<h3>👥 3. HR Analytics Dashboard</h3>
+**Key Metrics:** 64K Customers | 13% Fraud Rate | 232M Total Transaction Amount
 
-<p><b>Tools:</b> Power BI, DAX, Power Query</p>
+🔗 [View Project Repository](https://github.com/vtanishq-lab/Fintech-Fraud-Analysis-Dashboard)
 
-<p>
-Developed an HR dashboard to analyze workforce metrics, employee attrition,
-overtime, and performance indicators.
-</p>
+### 🫀 2. Cardiac Arrest Healthcare Analytics Dashboard
 
-<b>Key Performance Indicators:</b>
+**Tools:** Power BI | DAX | Power Query
 
-<ul>
-<li>Employee Count: 889</li>
-<li>Employee Attrition: 151</li>
-<li>Attrition Rate: 17%</li>
-<li>Employees Working Overtime: 238</li>
-<li>Average Performance Rating: 3.15</li>
-</ul>
+* Analyzed patient survival, mortality, and hospital performance.
+* Evaluated healthcare KPIs and ICU treatment costs.
+* Developed interactive visualizations to explore patient outcomes.
 
-<b>Key Analysis:</b>
+**Key Metrics:** 80K Patients | 58% Survival Rate | 34K Deceased Patients
 
-<ul>
-<li>Analyzed employee attrition and workforce trends.</li>
-<li>Explored department and job-role patterns.</li>
-<li>Examined overtime and workforce indicators.</li>
-<li>Compared performance metrics across employee groups.</li>
-</ul>
+🔗 [View Project Repository](https://github.com/vtanishq-lab/Cardiac-Arrest-Analytics-Power-BI-Project)
 
-<p><b>GitHub Repository:</b> Add your project repository link here.</p>
+---
+## 📌 What I Use
 
-<hr>
+| Tool / Skill          | Application                                                       |
+| --------------------- | ----------------------------------------------------------------- |
+| 🗄️ SQL / PostgreSQL  | Data querying, filtering, joins, and data extraction              |
+| 🐍 Python             | Data analysis, cleaning, and exploratory data analysis            |
+| 📊 Pandas & NumPy     | Data manipulation and numerical analysis                          |
+| 📈 Power BI           | Interactive dashboards, KPI monitoring, and business intelligence |
+| 🧮 DAX                | Measures, calculated columns, and KPI calculations                |
+| 🔄 Power Query        | Data cleaning and transformation                                  |
+| 📗 Microsoft Excel    | Data analysis, pivot tables, and reporting                        |
+| 📉 Statistics         | Trend analysis, correlation, and data interpretation              |
+| 📊 Data Visualization | Presenting insights through charts and dashboards                 |
+| 🤖 Machine Learning   | Learning predictive analytics fundamentals                        |
 
-<h2>🎓 Education</h2>
+---
 
-<p>
-<b>B.Com Vocational</b><br>
-St. John's College, Agra, India
-</p>
+## 🎓 Education & Training
 
-<h3>📜 Training & Courses</h3>
+* **B.Com Vocational** — St. John's College, Agra
+* **Data Analyst Certificate Intern Program** — Uncodemy, Noida
+* **30 Days Python Micro Course**
+* **30 Days Power BI Micro Course**
 
-<ul>
-<li>Data Analyst Certificate Intern Program — Uncodemy, Noida</li>
-<li>30 Days Python Micro Course</li>
-<li>30 Days Power BI Micro Course</li>
-</ul>
+---
 
-<hr>
+## 📚 Currently Learning
 
-<h2>🌱 Currently Learning</h2>
+* Advanced SQL and analytical queries
+* Python for data analysis and exploratory data analysis
+* Power BI, DAX, and data modeling
+* Statistics for Data Analytics
+* Machine Learning fundamentals
+* Business Intelligence and data-driven decision-making
 
-<ul>
-<li>Machine Learning Fundamentals</li>
-<li>Advanced SQL for Data Analytics</li>
-<li>Python for Data Analysis</li>
-<li>Statistical Analysis</li>
-<li>Business Intelligence</li>
-</ul>
+---
 
-<hr>
+## 💼 Career Objective
 
-<h2>🤝 Connect With Me</h2>
+I aim to begin my career as a Data Analyst, applying my analytical skills to real-world datasets, developing meaningful reports and dashboards, and helping businesses make informed decisions.
 
-<p>
-<a href="https://www.linkedin.com/in/tanishq-verma-93a352423/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+---
 
-<a href="https://github.com/vtanishq-lab">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+## 📫 Connect With Me
 
-<a href="mailto:vtanishq610@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-</p>
+* **LinkedIn:** [Tanishq Verma](https://www.linkedin.com/in/tanishq-verma-93a352423/)
+* **GitHub:** [vtanishq-lab](https://github.com/vtanishq-lab)
+* **Email:** [vtanishq610@gmail.com](mailto:vtanishq610@gmail.com)
 
-<hr>
+---
 
-<div align="center">
-<h3>💡 Turning Data into Insights, and Insights into Decisions.</h3>
-<p>Thanks for visiting my GitHub profile! ⭐</p>
+### 🧰 Tools & Technologies
+
+`SQL` `PostgreSQL` `Python` `Pandas` `NumPy` `Power BI` `DAX` `Power Query` `Microsoft Excel` `Statistics` `Data Visualization`
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
+I'm passionate about continuous learning, developing my analytical skills, and transforming data into meaningful insights.
+
 </div>
