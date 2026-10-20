@@ -1,130 +1,80 @@
 <div align="left">
-<<img src="https://github.com/vtanishq-lab.png" width="200" style="border-radius:50%" />
+
+<img src="https://github.com/vtanishq-lab.png" width="180" style="border-radius:50%" />
 
 # Hi, I'm Tanishq Verma 👋
 
-### Aspiring Data Analyst | SQL | Power BI | Python | Excel | Statistics
+**Aspiring Data Analyst | SQL | Power BI | Python | Tableau | Excel | Statistics | Machine Learning**
 
 I'm an aspiring Data Analyst and B.Com graduate passionate about transforming raw data into meaningful insights. I enjoy analyzing datasets, identifying trends, and building interactive dashboards to support data-driven decision-making.
 
-🎯 **Career Goal:** Seeking entry-level Data Analyst opportunities.
+🎯 **Career Goal:** Seeking entry-level Data Analyst / Business Analyst opportunities.
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 📊 Passionate about Data Analytics and Business Intelligence.
-* 🗄️ Developing SQL skills for data extraction and analysis.
-* 🐍 Using Python, Pandas, and NumPy for data analysis and exploration.
-* 📈 Building interactive dashboards using Power BI, DAX, and Power Query.
-* 📗 Practicing Excel for data cleaning, analysis, and reporting.
-* 📉 Learning statistics to understand data patterns and trends.
-* 🤖 Exploring Machine Learning and Artificial Intelligence fundamentals.
-* 🚀 Strengthening my analytical and problem-solving skills through continuous learning.
+* 📊 Data Analyst focused on turning data into actionable business insights
+* 🗄️ Strong interest in SQL-based data analysis and business reporting
+* 🐍 Using Python, Pandas, and NumPy for data cleaning and EDA
+* 📈 Experienced in Power BI dashboard development, DAX & Power Query
+* 📗 Advanced Excel for analysis and business reporting
+* 📉 Learning Statistics to understand data patterns and trends
+* 🤖 Exploring Machine Learning and AI fundamentals
+
+---
+
+## 📊 Featured Projects | 4 Dashboards | 80K+ Records Analyzed
+
+### 🔐 1. Fintech Fraud Analysis Dashboard
+**Tools:** Power BI | DAX | Power Query | SQL
+* Analyzed financial transactions and customer risk indicators
+* Explored fraud patterns across customer age groups
+**Key Metrics:** 64K Customers | 13% Fraud Rate | $232M Transaction Amount
+🔗 [View Project](https://github.com/vtanishq-lab/Fintech-Fraud-Analysis-Dashboard)
+
+### 🫀 2. Cardiac Arrest Healthcare Analytics Dashboard
+**Tools:** Power BI | DAX | Statistics
+* Analyzed patient survival, mortality, and hospital performance
+* Evaluated healthcare KPIs and ICU treatment costs
+**Key Metrics:** 80K Patients | 58% Survival Rate | 34K Deceased
+🔗 [View Project](https://github.com/vtanishq-lab/Cardiac-Arrest-Analytics-Power-BI-Project)
+
+### Add your other 2 projects here (Superstore + HR) - Pin them on profile
 
 ---
 
 ## 🛠️ Technical Skills
 
-**SQL:** PostgreSQL, Joins, Subqueries, CTEs, Window Functions, Aggregations
+**SQL:** PostgreSQL, Joins, Subqueries, CTEs, Window Functions  
+**Python:** Pandas, NumPy, EDA, Data Visualization  
+**Power BI:** Interactive Dashboards, DAX, Power Query, Data Modeling  
+**Excel:** Pivot Tables, VLOOKUP, XLOOKUP, Conditional Formatting  
+**Statistics:** Descriptive Stats, Correlation, Hypothesis Testing  
+**Tableau | Machine Learning | Data Visualization**
 
-**Python:** Pandas, NumPy, Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization
-
-**Power BI:** Interactive Dashboards, DAX, Power Query, Data Modeling, KPI Reporting
-
-**Microsoft Excel:** Pivot Tables, Pivot Charts, VLOOKUP, XLOOKUP, Conditional Formatting
-
-**Statistics:** Descriptive Statistics, Probability, Correlation, Hypothesis Testing Fundamentals
-
-**Data Analytics:** Data Transformation, Trend Analysis, KPI Analysis, Business Insights, Data Visualization
-
----
-## 📊 Featured Projects
-
-### 🔐 1. Fintech Fraud Analysis Dashboard
-
-**Tools:** Power BI | DAX | Power Query
-
-* Analyzed financial transactions and customer risk indicators.
-* Explored fraud patterns across customer age groups.
-* Created an interactive dashboard to monitor key fraud metrics.
-
-**Key Metrics:** 64K Customers | 13% Fraud Rate | 232M Total Transaction Amount
-
-🔗 [View Project Repository](https://github.com/vtanishq-lab/Fintech-Fraud-Analysis-Dashboard)
-
-### 🫀 2. Cardiac Arrest Healthcare Analytics Dashboard
-
-**Tools:** Power BI | DAX | Power Query
-
-* Analyzed patient survival, mortality, and hospital performance.
-* Evaluated healthcare KPIs and ICU treatment costs.
-* Developed interactive visualizations to explore patient outcomes.
-
-**Key Metrics:** 80K Patients | 58% Survival Rate | 34K Deceased Patients
-
-🔗 [View Project Repository](https://github.com/vtanishq-lab/Cardiac-Arrest-Analytics-Power-BI-Project)
-
----
 ## 📌 What I Use
-
-| Tool / Skill          | Application                                                       |
-| --------------------- | ----------------------------------------------------------------- |
-| 🗄️ SQL / PostgreSQL  | Data querying, filtering, joins, and data extraction              |
-| 🐍 Python             | Data analysis, cleaning, and exploratory data analysis            |
-| 📊 Pandas & NumPy     | Data manipulation and numerical analysis                          |
-| 📈 Power BI           | Interactive dashboards, KPI monitoring, and business intelligence |
-| 🧮 DAX                | Measures, calculated columns, and KPI calculations                |
-| 🔄 Power Query        | Data cleaning and transformation                                  |
-| 📗 Microsoft Excel    | Data analysis, pivot tables, and reporting                        |
-| 📉 Statistics         | Trend analysis, correlation, and data interpretation              |
-| 📊 Data Visualization | Presenting insights through charts and dashboards                 |
-| 🤖 Machine Learning   | Learning predictive analytics fundamentals                        |
+| Tool | Application |
+|------|-------------|
+| 🗄️ SQL / PostgreSQL | Data querying, joins, extraction |
+| 🐍 Python | Cleaning, EDA, analysis |
+| 📈 Power BI | Dashboards, KPI monitoring |
+| 📊 Tableau | Visual analytics & storytelling |
 
 ---
 
-## 🎓 Education & Training
-
+## 🎓 Education
 * **B.Com Vocational** — St. John's College, Agra
-* **Data Analyst Certificate Intern Program** — Uncodemy, Noida
-* **30 Days Python Micro Course**
-* **30 Days Power BI Micro Course**
-
----
-
-## 📚 Currently Learning
-
-* Advanced SQL and analytical queries
-* Python for data analysis and exploratory data analysis
-* Power BI, DAX, and data modeling
-* Statistics for Data Analytics
-* Machine Learning fundamentals
-* Business Intelligence and data-driven decision-making
-
----
-
-## 💼 Career Objective
-
-I aim to begin my career as a Data Analyst, applying my analytical skills to real-world datasets, developing meaningful reports and dashboards, and helping businesses make informed decisions.
-
----
+* **Data Analyst Certificate Intern** — Uncodemy, Noida
 
 ## 📫 Connect With Me
-
 * **LinkedIn:** [Tanishq Verma](https://www.linkedin.com/in/tanishq-verma-93a352423/)
 * **GitHub:** [vtanishq-lab](https://github.com/vtanishq-lab)
-* **Email:** [vtanishq610@gmail.com](mailto:vtanishq610@gmail.com)
+* **Email:** vtanishq610@gmail.com
 
----
+### 🧰 Tools
+`SQL` `Python` `Power BI` `Tableau` `Excel` `Statistics` `Machine Learning` `DAX` `Pandas`
 
-### 🧰 Tools & Technologies
-
-`SQL` `PostgreSQL` `Python` `Pandas` `NumPy` `Power BI` `DAX` `Power Query` `Microsoft Excel` `Statistics` `Data Visualization`
-
----
-
-⭐ **Thanks for visiting my profile!**
-
-I'm passionate about continuous learning, developing my analytical skills, and transforming data into meaningful insights.
+⭐ Thanks for visiting my profile!
 
 </div>
