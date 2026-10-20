@@ -17,7 +17,7 @@ I'm an aspiring Data Analyst and B.Com graduate passionate about transforming ra
 * 📗 Practicing Excel for data cleaning, analysis, and reporting.
 * 📉 Learning statistics to understand data patterns and trends.
 * 🤖 Exploring Machine Learning and Artificial Intelligence fundamentals.
-* 🚀 Building practical projects to strengthen my analytical and problem-solving skills.
+* 🚀 Strengthening my analytical and problem-solving skills through continuous learning.
 
 ---
 
@@ -34,66 +34,6 @@ I'm an aspiring Data Analyst and B.Com graduate passionate about transforming ra
 **Statistics:** Descriptive Statistics, Probability, Correlation, Hypothesis Testing Fundamentals
 
 **Data Analytics:** Data Transformation, Trend Analysis, KPI Analysis, Business Insights, Data Visualization
-
----
-
-## 📊 Featured Projects
-
-### 🫀 1. Cardiac Arrest Healthcare Analytics Dashboard
-
-**Tools:** Power BI | DAX | Power Query
-
-* Analyzed patient survival, mortality, hospital performance, and healthcare indicators.
-* Developed interactive dashboards to monitor patient outcomes and ICU treatment costs.
-* Explored survival patterns by hospital and diabetes status.
-
-**Key KPIs:**
-
-* Patient Count: 80K
-* Survival Count: 46K
-* Deceased Count: 34K
-* Survival Rate: 58%
-* Average ICU Stay: 11.03 Days
-* ICU Treatment Cost: 3.6B
-
-🔗 **Project Repository:** [Add Project Link]
-
-### 🔐 2. Fintech Fraud Analysis Dashboard
-
-**Tools:** Power BI | DAX | Power Query
-
-* Analyzed financial transactions, fraud patterns, and customer risk indicators.
-* Compared fraud activity across customer age groups.
-* Explored foreign transactions, failed login attempts, and credit score patterns.
-
-**Key KPIs:**
-
-* Customer Count: 64K
-* Total Transaction Amount: 232M
-* Fraud Rate: 13%
-* Foreign Transaction Rate: 10%
-* Average Credit Score: 736
-* Average Risk Score: 13
-
-🔗 **Project Repository:** [Add Project Link]
-
-### 👥 3. HR Analytics Dashboard
-
-**Tools:** Power BI | DAX | Power Query
-
-* Analyzed employee attrition, workforce demographics, and overtime patterns.
-* Evaluated attrition across departments and job roles.
-* Explored workforce trends to support employee retention analysis.
-
-**Key KPIs:**
-
-* Employee Count: 889
-* Attrition Count: 151
-* Attrition Rate: 17%
-* Overtime Count: 238
-* Average Performance Rating: 3.15
-
-🔗 **Project Repository:** [Add Project Link]
 
 ---
 
@@ -156,4 +96,4 @@ I aim to begin my career as a Data Analyst, applying my analytical skills to rea
 
 ⭐ **Thanks for visiting my profile!**
 
-I'm passionate about continuous learning, building practical projects, and transforming data into meaningful insights.
+I'm passionate about continuous learning, developing my analytical skills, and transforming data into meaningful insights.
